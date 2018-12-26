@@ -1,0 +1,15 @@
+{
+  "name": "PUP-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/himaeng/PUP-API.git",
+  "author": "Jedsada Tiwongvorakul <jt@20scoops.net>",
+  "license": "MIT",
+  "dependencies": {
+    "composer-admin": "^0.20.5",
+    "composer-client": "^0.20.5",
+    "composer-common": "^0.20.5",
+    "composer-wallet-filesystem": "^0.20.5",
+    "websocket": "^1.0.28"
+  }
+}
